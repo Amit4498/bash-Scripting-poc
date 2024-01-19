@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Arrays
-myarray=(1 2 "amit" "rupal" 4.5 )
+myarray=(1 2 "test1" "test2" 4.5 )
 echo "Values at 2nd index is ${myarray[2]}"
 echo "Values at 3rd index is ${myarray[3]}"
 
