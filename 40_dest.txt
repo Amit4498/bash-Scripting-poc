@@ -1,0 +1,5 @@
+hello how are you
+welcome to bash poc
+this will be poc where we
+copy the first 5 lines
+from 1 file to other file
